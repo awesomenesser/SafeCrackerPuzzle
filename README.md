@@ -1,4 +1,4 @@
-# SafeCrackerPuzzle
+# SafeCracker 50 Puzzle
 This is a simple project to solve a small puzzle that I was given. I added a system to add up the columns for you and added a couple hint options if you get stuck.
 
 Made using Microsoft Visual Studio Community 2022 C# (.NET Framework 4.7.2)
